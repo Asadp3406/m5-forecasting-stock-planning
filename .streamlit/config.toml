@@ -1,0 +1,14 @@
+# Dashboard theme (run streamlit from the project root so this file is picked up)
+[theme]
+base = "light"
+primaryColor = "#2a78d6"
+backgroundColor = "#fbfaf7"
+secondaryBackgroundColor = "#f0eee8"
+textColor = "#1f2933"
+font = "sans serif"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

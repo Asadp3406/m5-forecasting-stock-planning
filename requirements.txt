@@ -1,0 +1,10 @@
+# Everything needed for the pipeline, dashboard and API (the API image uses api/requirements.txt)
+pandas==3.0.5
+numpy==2.5.1
+pyarrow==26.0.0
+lightgbm==4.7.0
+psycopg[binary]==3.3.6
+streamlit==1.66.0
+altair==6.3.0
+fastapi==0.143.2
+uvicorn==0.54.0

@@ -1,0 +1,7 @@
+.env
+myenv/
+raw/
+data/
+outputs/trials/
+__pycache__/
+.DS_Store
